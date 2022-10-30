@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homework-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snezhka003/ajs-homework-nodejs.git"
+  },
+  "author": "snezhka003",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snezhka003/ajs-homework-nodejs/issues"
+  },
+  "homepage": "https://github.com/snezhka003/ajs-homework-nodejs#readme",
+  "dependencies": {
+    "@snezhka003/ajs-homework-platforms": "^1.0.0"
+  }
+}
